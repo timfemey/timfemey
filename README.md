@@ -9,9 +9,9 @@
   <a href='https://www.linkedin.com/in/obafemi-ishola'>
       <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&?style=plastic' width='100'/>
   </a>
-  <a href='https://femiport.web.app'>
+<!--   <a href='https://femiport.web.app'>
     <img src='https://img.shields.io/static/v1?label=Portfolio&message=Femi-Portfolio&color=success' width='170'/>
-  </a>  
+  </a>   -->
 </div>
 
 <h1 align='center'> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
@@ -25,11 +25,11 @@
 
 I am a Full Stack Developer :technologist: from Nigeria:nigeria:.
 
-- :telescope: I’m a Software Engineer currently looking to kickstart their career while also contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Engineer currently looking for opportunities to evolve their career contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring System Designs and Web Security.
+- :seedling: Deep Diving into System Designs and Web Security.
 
-- :zap: In my free time, I and read tech articles.
+- :zap: In my free time, I and read tech articles and watch anime
 
 - ⚡ Fun fact: The first computer bug was an actual bug :smile: 
 
