@@ -42,9 +42,9 @@ I am a Full Stack Developer :technologist: from Nigeria:nigeria:.
 <div>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg' width='40' height='40'/>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg' width='40' height='40'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg' width='40' height='40'/>
    <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg' width='40' height='40'/>
-   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg' width='40' height='40'/>
+   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' width='40' height='40'/>
    <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg' width='40' height='40'/>
    <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg' width='40' height='40'/>
    <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg' width='40' height='40'/>
@@ -59,7 +59,7 @@ I am a Full Stack Developer :technologist: from Nigeria:nigeria:.
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg' width='40' height='40'/>
-  <p color='blue'>and Others(such as Golang, Vitejs, Messaging Systems) :)</p> 
+  <p color='blue'>and Others(such as Vitejs, Messaging Systems) :)</p> 
 </div>
 
 ---
