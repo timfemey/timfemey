@@ -27,9 +27,9 @@ I am a Full Stack Developer :technologist: from Nigeria:nigeria:.
 
 - :telescope: I’m a Software Engineer currently looking for opportunities to evolve their career contributing to frontend and backend for building web applications.
 
-- :seedling: Deep Diving into System Designs, Bunjs and Web Security.
+- :seedling: Starting to learn Data Engineering and Analysis.
 
-- :zap: In my free time, I and read tech articles and watch anime
+- :zap: In my free time, I read tech articles and watch anime
 
 - ⚡ Fun fact: The first computer bug was an actual bug :smile: 
 
