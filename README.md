@@ -27,7 +27,7 @@ I am a Full Stack Developer :technologist: from Nigeria:nigeria:.
 
 - :telescope: I’m a Software Engineer currently looking for opportunities to evolve their career contributing to frontend and backend for building web applications.
 
-- :seedling: Starting to learn Data Engineering and Analysis.
+- :seedling: I want to learn Rust.
 
 - :zap: In my free time, I read tech articles and watch anime
 
@@ -59,8 +59,23 @@ I am a Full Stack Developer :technologist: from Nigeria:nigeria:.
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg' width='40' height='40'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg' width='40' height='40'/>
-  <p color='blue'>and Others(such as Javascript Bundlers, Messaging Systems, Docker) :)</p> 
+
 </div>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,rabbitmq" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### DevOps & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,aws,linux,bash,git,github" />
+</p>
+
 
 ---
 
